@@ -1,2 +1,11 @@
-config.py
+.env
+.env.*
+!.env.example
+.venv/
+.python/
+.uv-cache/
+.idea/
+*.py[cod]
+__pycache__/
+*.log
 database_of_students.py
